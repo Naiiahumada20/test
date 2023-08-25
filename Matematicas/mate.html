@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Preguntas y respuestas </title>
+    <link rel="stylesheet" href="styles.css"/>
+    <!-- FontAweome para los iconos-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+</head>
+<body>
+    <!-- Botón para empezar el cuestionario -->
+    <div class="start_btn"><button>Empezar el cuestionario</button></div>
+
+    <!-- Caja Info -->
+    <div class="info_box">
+        <div class="info-title"><span>Las reglas básicas del cuestionario</span></div>
+        <div class="info-list">
+            <div class="info">1. Tendrás <span>15 segundos</span> para responder a cada pregunta.</div>
+            <div class="info">2. Una vez que selecciones una respuesta, <span>no se puede deshacer</span>.</div>
+            <div class="info">3. No puede seleccionar ninguna opción una vez que se acaba el tiempo.</div>
+            <div class="info">4. <span>No se puede salir de cuestionario</span> mientras se está desarrollando por que perderás todos los puntos acumulados.</div>
+            <div class="info">5. Obtendrás <span>un punto por cada respuesta correcta</span>.</div>
+        </div>
+        <div class="buttons">
+            <button class="quit">Salir</button>
+            <button class="restart">Continuar</button>
+        </div>
+    </div>
+
+    <!-- Caja de preguntas -->
+    <div class="quiz_box">
+        <header>
+            <div class="title">Piénsalo antes de responder ...</div>
+            <div class="timer">
+                <div class="time_left_txt">Tiempo restante</div>
+                <div class="timer_sec">15</div>
+            </div>
+            <div class="time_line"></div>
+        </header>
+        <section>
+            <div class="que_text">
+                <!-- Aquí he insertado una pregunta de JavaScript -->
+            </div>
+            <div class="option_list">
+                <!-- Aquí he insertado opciones de JavaScript -->
+            </div>
+        </section>
+
+        <!-- pie de página de Quiz Box -->
+        <footer>
+            <div class="total_que">
+                <!-- Aquí he insertado Número de conteo de preguntas de JavaScript -->
+            </div>
+            <button class="next_btn">Siguiente</button>
+        </footer>
+    </div>
+
+    <!-- Cuadro de resultados -->
+    <div class="result_box">
+        <div class="icon">
+            <i class="fas fa-crown"></i>
+        </div>
+        <div class="complete_text">Has completado el cuestionario!</div>
+        <div class="score_text">
+            <!-- Aquí he insertado Score Result de JavaScript -->
+        </div>
+        <div class="buttons">
+            <button class="restart">Repetir</button>
+            <button class="quit">Salir</button>
+        </div>
+    </div>
+
+    <!-- Dentro de este archivo JavaScript, solo he insertado preguntas y opciones. -->
+    <script src="preguntas.js"></script>
+
+    <!-- Dentro de este archivo JavaScript he codificado todos los códigos de prueba -->
+    <script src="script.js"></script>
