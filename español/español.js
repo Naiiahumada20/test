@@ -2,46 +2,46 @@
 let questions = [
     {
     numb: 1,
-    question: "¿Cual es la capital de España?",
-    answer: "Madrid",
+    question: "¿Qué autor escribió la novela Cien años de soledad?",
+    answer: "Gabriel Garcia M",
     options: [
-      "Barcelona",
-      "Sevilla",
-      "Madrid",
-      "Valencia"
+      "Gabriel García M",
+      "Mario Vargas Ll",
+      "Pablo Neruda",
+      "Rener villa",
     ]
   },
     {
     numb: 2,
-    question: "¿Que significa la palabra amistad",
-    answer: "Relacion de afecto y compañia entre personas",
+    question: "¿Cuál de los siguientes países no es parte de la Unión Europea (a partir de mi conocimiento hasta septiembre de 2021)",
+    answer: "Suiza",
     options: [
-      "Tristeza",
-      "Enemistad",
-      "Alegria",
-      "Relacion de afecto y compañia entre personas"
+      "Panama",
+      "Europa",
+      "España",
+      "Suiza"
     ]
   },
     {
     numb: 3,
-    question: "¿Cual de los siguientes planetas es el mas grande del sistema solar?",
-    answer: "Jupiter",
+    question: "Pregunta: ¿Cuál es el significado de la palabra altruismo",
+    answer: "Generosidad",
     options: [
-      "Marte",
-      "Venus ",
-      "Jupiter",
-      "Mercurio"
+      " Indiferencia",
+      " Egoísmo ",
+      "Generosidad",
+      " Ambición"
     ]
   },
     {
     numb: 4,
-    question: "¿Cual es el rio mas grande del mundo?",
-    answer: "Amazonas",
+    question: "Cuál es el género literario al que pertenece la obra Cien años de soledad de Gabriel García Márquez?",
+    answer: "Realismo mágico",
     options: [
-      "Nilo",
-      "Amazonas",
-      "Misisipi",
-      "Yangtsé"
+      " Novela de ciencia ficción",
+      "Novela histórica",
+      "Poesía lírica",
+      "Realismo mágico"
     ]
   },
     {

@@ -6,12 +6,12 @@
 }
 
 body{
-    background: #9ae6ef;;
+    background: #f00a57;;
 }
 
 ::selection{
     color: #161515;
-    background: #9ae6ef;
+    background: #f306b8;
 }
 
 .start_btn,
@@ -38,21 +38,21 @@ body{
 .start_btn button{
     font-size: 30px;
     font-weight: bold;
-    color: #0b0b0b;
+    color: #fcfafa;
     padding: 15px 30px;
     outline: none;
     border: none;
     border-radius: 5px;
-    background: rgb(159, 233, 237);
+    background: rgb(12, 12, 12);
     cursor: pointer;
 }
 .start_btn button:hover{
-    color:#007bff
+    color:#232930
 }
 
 .info_box{
     width: 540px;
-    background: #f0ecec;
+    background: #e8adf7;
     border-radius: 5px;
     transform: translate(-50%, -50%) scale(0.9);
     opacity: 0;
@@ -138,7 +138,7 @@ body{
 
 .quiz_box header .timer{
     color: #ffffff;
-    background: #00ffee;
+    background: #f306b8;
     border: 1px solid #a0e0d8;
     height: 45px;
     padding: 0 8px;
@@ -194,7 +194,7 @@ section .option_list{
 
 section .option_list .option{
     background: aliceblue;
-    border: 1px solid #84c5fe;
+    border: 1px solid #fc07b2;
     border-radius: 5px;
     padding: 8px 15px;
     font-size: 17px;
@@ -324,7 +324,7 @@ footer button.show{
 
 .result_box .icon{
     font-size: 125px;
-    color: #60adda;
+    color: #fa05c5;
     margin-bottom: 10px;
 }
 
@@ -366,7 +366,7 @@ footer button.show{
 
 .buttons button.restart{
     color: #fff;
-    background: #b2eef0;
+    background: #0c0c0c;
 }
 
 .buttons button.restart:hover{
@@ -381,3 +381,4 @@ footer button.show{
 .buttons button.quit:hover{
     color: #fff;
     background: #a2ebebb0;
+}

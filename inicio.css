@@ -16,7 +16,7 @@ nav{
     justify-content: space-between;
 }
 .logo{
-    height: 40px;
+    height: 80px;
 }
 nav ul{
     display: flex;
@@ -162,4 +162,3 @@ li a.active, li a:hover{
         border-radius: 5px;
         font-size: 1.3rem;
     }
-}
