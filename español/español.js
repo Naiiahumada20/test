@@ -1,16 +1,17 @@
 // creando una matriz y pasando el número, preguntas, opciones y respuestas
 let questions = [
-    {
+  {
     numb: 1,
-    question: "¿Qué autor escribió la novela Cien años de soledad?",
+    question: "¿Que autor escribio la novela cien años de soledad?",
     answer: "Gabriel Garcia M",
     options: [
-      "Gabriel García M",
-      "Mario Vargas Ll",
+      "Gabriel Garcia M",
+      "Mario vargas LI",
       "Pablo Neruda",
-      "Rener villa",
+      "Rener villa"
     ]
   },
+   
     {
     numb: 2,
     question: "¿Cuál de los siguientes países no es parte de la Unión Europea (a partir de mi conocimiento hasta septiembre de 2021)",

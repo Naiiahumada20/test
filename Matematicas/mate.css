@@ -6,12 +6,12 @@
 }
 
 body{
-    background: #f00a57;;
+    background: #f00a0a;;
 }
 
 ::selection{
     color: #161515;
-    background: #f306b8;
+    background: #faf5f9;
 }
 
 .start_btn,
@@ -52,7 +52,7 @@ body{
 
 .info_box{
     width: 540px;
-    background: #e8adf7;
+    background: #efebf0;
     border-radius: 5px;
     transform: translate(-50%, -50%) scale(0.9);
     opacity: 0;
@@ -83,7 +83,7 @@ body{
 
 .info_box .info-list .info span{
     font-weight: 600;
-    color: #007bff;
+    color: #f8020e;
 }
 .info_box .buttons{
     height: 60px;
@@ -104,7 +104,7 @@ body{
     border: none;
     outline: none;
     border-radius: 5px;
-    border: 1px solid #007bff;
+    border: 1px solid #0871fa;
     transition: all 0.3s ease;
 }
 
@@ -138,7 +138,7 @@ body{
 
 .quiz_box header .timer{
     color: #ffffff;
-    background: #f306b8;
+    background: #f30606;
     border: 1px solid #a0e0d8;
     height: 45px;
     padding: 0 8px;
@@ -174,7 +174,7 @@ body{
     bottom: 0px;
     left: 0px;
     height: 3px;
-    background: #007bff;
+    background: #0c7ee9;
 }
 
 section{
@@ -194,7 +194,7 @@ section .option_list{
 
 section .option_list .option{
     background: aliceblue;
-    border: 1px solid #fc07b2;
+    border: 1px solid #fc0707;
     border-radius: 5px;
     padding: 8px 15px;
     font-size: 17px;
@@ -324,7 +324,7 @@ footer button.show{
 
 .result_box .icon{
     font-size: 125px;
-    color: #fa05c5;
+    color: #fa0505;
     margin-bottom: 10px;
 }
 
@@ -360,7 +360,7 @@ footer button.show{
     border: none;
     outline: none;
     border-radius: 5px;
-    border: 1px solid #007bff;
+    border: 1px solid #3356f3;
     transition: all 0.3s ease;
 }
 

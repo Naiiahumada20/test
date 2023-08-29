@@ -47,7 +47,7 @@ body{
     cursor: pointer;
 }
 .start_btn button:hover{
-    color:#007bff
+    color:#f1f1f1
 }
 
 .info_box{
@@ -83,7 +83,7 @@ body{
 
 .info_box .info-list .info span{
     font-weight: 600;
-    color: #007bff;
+    color: #f3c703;
 }
 .info_box .buttons{
     height: 60px;
@@ -139,7 +139,7 @@ body{
 .quiz_box header .timer{
     color: #ffffff;
     background: #faf603;
-    border: 1px solid #a0e0d8;
+    border: 1px solid #fffb07;
     height: 45px;
     padding: 0 8px;
     border-radius: 5px;
