@@ -59,7 +59,7 @@ let questions = [
   {
     numb: 6,
     question: " ¿Cuál es el planeta más cercano al Sol en nuestro sistema solar?",
-    answer: "Venus",
+    answer: "Mercurio",
     options: [
       "Venus",
       "Mercurio",
