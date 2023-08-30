@@ -45,14 +45,36 @@ let questions = [
     ]
   },
     {
-    numb: 5,
-    question: "Al mezclar dos gases se obtiene una disolución:",
-    answer: "Siempre",
+    numb: 6,
+    question: "¿Cuál es el símbolo químico del hidrógeno?",
+    answer: "H",
     options: [
-      "Aveces",
-      "Nunca",
-      "Depente el lugar",
-      "Siempre"
+      "Hy",
+      "H",
+      "Co",
+      "H2o",
+    ]
+  },
+  {
+    numb: 6,
+    question: "¿Cuál es el número atómico del elemento químico que tiene 118 protones en su núcleo?",
+    answer: "118",
+    options: [
+      "118",
+      "88",
+      "117",
+      "120",
+    ]
+  },
+  {
+    numb: 7,
+    question: "¿Qué elemento químico es conocido como el gas noble que se usa en globos aerostáticos debido a su ligereza?",
+    answer: "Helio",
+    options: [
+      "Nitrógeno",
+      "Oxígeno",
+      "Helio",
+      "Hidrógeno",
     ]
   },
 ];

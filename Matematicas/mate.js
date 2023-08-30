@@ -55,4 +55,26 @@ let questions = [
     "64π unidades"
   ]
 },
+{
+  numb: 6,
+  question: " Si tienes un triángulo rectángulo en el que los dos catetos miden 5 centímetros cada uno, ¿cuál es la longitud de la hipotenusa?",
+  answer: "10 centímetro",
+  options: [
+    "20 centimetros",
+    "11 centimetros",
+    "9 centimetros",
+    "10 centímetro"
+  ]
+},
+{
+  numb: 7,
+  question: " Si un tren viaja a una velocidad constante de 80 kilómetros por hora durante 3 horas, ¿cuántos kilómetros habrá recorrido?",
+  answer: "320 kilómetros",
+  options: [
+    "160 kilómetros",
+    "240 kilómetros",
+    "360 kilómetros",
+    "320 kilómetros"
+  ]
+},
 ];
